@@ -1,0 +1,7 @@
+Historique de la dernière partie :
+Blancs	Noirs
+Pe2 e4	Pd7 d5
+Pe4 d5	Pe7 e6
+Pd5 e6	Pg7 g6
+Pe6 f7	Ph7 h6
+Pf7 g8	
