@@ -1,5 +1,7 @@
 # echecs
 
+Projet créé en binome avec @Lucas-ZAverio
+
 Pour le projet final, nous avons eu une dizaine de possibilités de sujets, mais parmi toutes ces
 propositions, nous avons sans hésiter choisi le jeu d’échecs car les échecs font partie de notre vie
 depuis longtemps. En effet, très tôt, dès l’école primaire, nous jouons aux échecs car nous faisions
