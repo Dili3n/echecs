@@ -1,6 +1,6 @@
 # echecs
 
-Projet créé en binome avec @Lucas-ZAverio
+Projet créé en binome avec @Lucas-Zaverio
 
 Pour le projet final, nous avons eu une dizaine de possibilités de sujets, mais parmi toutes ces
 propositions, nous avons sans hésiter choisi le jeu d’échecs car les échecs font partie de notre vie
